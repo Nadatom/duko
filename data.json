@@ -1,13 +1,14 @@
 {
-    "otazky": [
-      {
-        "id": 1,
-        "text": "Jak se máte?"
-      },
-      {
-        "id": 2,
-        "text": "Jaké máte oblíbené jídlo?"
-      }
-    ]
-  }
-  
+  "otazky": [
+    {
+      "id": 1,
+      "text": "Jaké auto používáte?",
+      "options": ["BMW", "Škoda", "jiné"]
+    },
+    {
+      "id": 2,
+      "text": "Jaké máte oblíbené jídlo?",
+      "options": ["Pizza", "Sushi", "Hamburger"]
+    }
+  ]
+} 
