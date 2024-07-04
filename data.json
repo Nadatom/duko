@@ -1,0 +1,13 @@
+{
+    "otazky": [
+      {
+        "id": 1,
+        "text": "Jak se máte?"
+      },
+      {
+        "id": 2,
+        "text": "Jaké máte oblíbené jídlo?"
+      }
+    ]
+  }
+  
